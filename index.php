@@ -9,6 +9,7 @@
 
 <form action="hai.php" method="POST">
 Email: <input type="text" name="email"><br />
+Email: <input type="text" name="email"><br />
 </form>
 
 </body>
